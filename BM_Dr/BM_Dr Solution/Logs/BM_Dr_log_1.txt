@@ -1,0 +1,24 @@
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr] INFO - Opening the solution
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr] INFO - Opening the users and groups directory
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr] INFO - Users and groups directory opened (duration: 32 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Opening the project
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Opening the database
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Database opened (duration: 3 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Project opened (duration: 19 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Opening the project
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Project opened (duration: 3 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr] INFO - Solution opened (duration: 117 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr] INFO - Starting the solution
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Starting the project
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Starting the HTTP server
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - HTTP server started (duration: 17 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Project started (duration: 62 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Starting the project
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Starting the HTTP server
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - HTTP server started (duration: 13 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Project started (duration: 34 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Executing the bootstrap(s)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.BM_Dr] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr.ServerAdmin] INFO - Bootstrap(s) executed (duration: 13 ms)
+2013-03-18 11:30:27 [com.wakanda-software.BM_Dr] INFO - Solution started (duration: 112 ms)
